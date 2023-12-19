@@ -1,0 +1,23 @@
+{
+  "name": "exercise12-ecommerce",
+  "version": "1.0.0",
+  "description": "dell ecommerce website for consumer products",
+  "main": "home.html",
+  "scripts": {
+    "test": "",
+    "start":"exercise12-ecommerce"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksndn223/ecomm-website.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "bootstrap",
+    "html"
+  ],
+  "author": "ksndn223",
+  "license": "ISC"
+}
